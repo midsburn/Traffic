@@ -33,7 +33,7 @@ mea = total.loc[['Egiptus','Chodaen','Egiptus', 'Liban', 'Oh Man', 'Sanyukt Arab
 #print(mea)
 
 df = pd.DataFrame(mea)
-#print(df)
+print(df)
 
 freq = df.groupby(['Rule Code']).count()
 print(freq)
