@@ -1,0 +1,50 @@
+﻿1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Admin Level 1,Admin Level 2,Admin Level 3,Admin Level 4,Admin Level 5,Rule Code,Rule Name,Severity,LE Status,Priority,DBE Val Comment,DBE Comment,Responsibility,LE Review,User Id,User Location,Assigned To,LE Reason,LE Details,Timestamp,Remark,Message,WAV Status,Project Name,LE Check,Validation Type,Clean For Extracts,CCLV Runlist,LE Enabled,Validation Id,Link Id
+Thailand,Bangkok,Bang Khun Thian,Samae Dam,,RDS001,Invalid Adjacent RDS-TMC Codes,2,Active,HIGH,-,Check and fix,TRAFFIC TEAM,YES,sacrane,Mumbai,sacrane,,,05/17/21 13:59 PM,,RDS19+46317 has Directional Indicator inconsistent with RDS19-46316,F,"Thailand - FC12345 - WO096297...FQ2-21
+Extensive Inclusion
+O...Core Team - SE Asia",NO,W  ,NO,NO,YES,2457639781,2454823391
+Thailand,Bangkok,Bang Khun Thian,Samae Dam,,RDS001,Invalid Adjacent RDS-TMC Codes,2,Active,HIGH,-,Check and fix,TRAFFIC TEAM,YES,sacrane,Mumbai,sacrane,,,05/17/21 13:59 PM,,RDS19-46316 has Directional Indicator inconsistent with RDS19+46317,F,"Thailand - FC12345 - WO096297...FQ2-21
+Extensive Inclusion
+O...Core Team - SE Asia",NO,W  ,NO,NO,YES,2457639776,2454823384
+Indonesia,Daerah Istimewa Yogyakarta,Sleman,Pakem,,RDS080,Missing Internal RDS-TMC Code at Start or End of RDS-TMC Path,2,Active,HIGH,ICE,-,TRAFFIC,-,sacrane,Mumbai,sacrane,,,05/17/21 12:06 PM,,The positive internal RDS-TMC code and negative internal RDS-TMC code for table 23 and point location 36867 is missing,F,UNKNOWN,NO,W  ,NO,NO,YES,2456772658,4007700485
+Malaysia,Selangor,Petaling,Subang Jaya,Taman Subang Mas,RDS024,Traffic Chain with No RDS-TMC Name,2,Active,HIGH,-,-,GENERAL,-,sacrane,Mumbai,sacrane,,,05/17/21 10:55 AM,,,F,"Malaysia - FC12345 - WO096296...FQ2-21
+Extensive Inclusion
+O...Core Team - SE Asia",NO,W  ,NO,NO,NO,2457216702,6378668479
+Thailand,Prachin Buri,Mueang Prachin Buri,Dong Phra Ram,,RDS001,Invalid Adjacent RDS-TMC Codes,2,Active,HIGH,-,Check and fix,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:52 AM,,RDS19+50597 has Directional Indicator inconsistent with RDS19-50596,F,"Thailand - FC12345 - WO096059...FQ2-21
+HPU/FUPs...SOUTHEAST ASIA TH and VN LMO",NO,W  ,NO,NO,YES,2455609413,2455334126
+Thailand,Prachin Buri,Mueang Prachin Buri,Ban Phra,,RDS001,Invalid Adjacent RDS-TMC Codes,2,Active,HIGH,-,Check and fix,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:52 AM,,RDS19+50597 has Directional Indicator inconsistent with RDS19-50596,F,"Thailand - FC12345 - WO096059...FQ2-21
+HPU/FUPs...SOUTHEAST ASIA TH and VN LMO",NO,W  ,NO,NO,YES,2455609422,8942786065
+Thailand,Lampang,Mueang Lampang,Chomphu,,RDS018,Invalid RDS-TMC Direction of Travel,2,Active,CRITICAL,-,-,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:51 AM,,RDS19-49545 has direction of travel inconsistent with RDS19-49546,F,"Thailand - FC12345 - WO096059...FQ2-21
+HPU/FUPs...SOUTHEAST ASIA TH and VN LMO",NO,W  ,NO,NO,YES,2456811930,2339260620
+Thailand,Lampang,Mueang Lampang,Chomphu,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,CRITICAL,-,Check and fix,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:51 AM,,RDS-TMC Feature: RDS19-49545,F,"Thailand - FC12345 - WO096059...FQ2-21
+HPU/FUPs...SOUTHEAST ASIA TH and VN LMO",NO,W  ,NO,NO,YES,2455964055,4051741940
+Thailand,Bangkok,Thon Buri,Wat Kanlaya,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,CRITICAL,-,Check and fix,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:49 AM,,RDS-TMC Feature: RDS19-46271T,F,"Thailand - FC12345 - WO096297...FQ2-21
+Extensive Inclusion
+O...Core Team - SE Asia",NO,W  ,NO,NO,YES,2457639681,1261719037
+Thailand,Bangkok,Thon Buri,Wat Kanlaya,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,CRITICAL,-,Check and fix,TRAFFIC TEAM,YES,rlopezpi,Leon,rlopezpi,,,05/17/21 09:49 AM,,RDS-TMC Feature: RDS19+46271F,F,UNKNOWN,NO,W  ,NO,NO,YES,2457639712,9716214443
+Thailand,Nakhon Pathom,Nakhon Chai Si,Phaniat,,RDS017,Invalid RDS-TMC Direction of Road,2,Active,HIGH,-,-,TRAFFIC TEAM,NO,sacrane,Mumbai,sacrane,,,05/17/21 09:02 AM,,RDS19+59292F has direction of road inconsistent with RDS19+59292F,F,"Southeast Asia - FC12345-Core Map - Core Map - WO094859...2021
+RAPID Option 3
+Thailand...RAPID Drives - SE Asia",NO,W  ,NO,NO,YES,2457209822,5020660940
+Thailand,Nakhon Pathom,Nakhon Chai Si,Phaniat,,RDS017,Invalid RDS-TMC Direction of Road,2,Active,HIGH,-,-,TRAFFIC TEAM,NO,sacrane,Mumbai,sacrane,,,05/17/21 09:02 AM,,RDS19-59291T has direction of road inconsistent with RDS19-59291T,F,"Southeast Asia - FC12345-Core Map - Core Map - WO094859...2021
+RAPID Option 3
+Thailand...RAPID Drives - SE Asia",NO,W  ,NO,NO,YES,2457209821,5020666336
+Malaysia,Wilayah Persekutuan,Kuala Lumpur,Kuala Lumpur,Kampung Baru Salak Selatan,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,GENERAL,YES,rlopezpi,Leon,rlopezpi,,,04/21/21 13:02 PM,,RDS-TMC Feature: RDS05+02072,F,Malaysia - FC12345 - WO095906...Core Team - SE Asia,NO,W  ,NO,NO,YES,2442606557,1585504242
+Malaysia,Wilayah Persekutuan,Kuala Lumpur,Kuala Lumpur,Simpang Tiga Bukit Salak,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,GENERAL,YES,rlopezpi,Leon,rlopezpi,,,04/21/21 13:02 PM,,RDS-TMC Feature: RDS05-02072,F,UNKNOWN,NO,W  ,NO,NO,YES,2441697209,6528813027
+Malaysia,Wilayah Persekutuan,Kuala Lumpur,Kuala Lumpur,Simpang Tiga Bukit Salak,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,GENERAL,YES,rlopezpi,Leon,rlopezpi,,,04/21/21 13:02 PM,,RDS-TMC Feature: RDS05-02072,F,UNKNOWN,NO,W  ,NO,NO,YES,2441697210,2315818386
+Indonesia,Jawa Barat,Bekasi,Jatiasih,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/15/21 08:57 AM,,RDS-TMC Feature: RDS21P02288,F,Indonesia - Core Map - Link Attributes - WO065856  Indonesia,NO,W  ,NO,NO,YES,8148373004,3429789122
+Indonesia,Jawa Barat,Bekasi,Jatiasih,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/15/21 08:57 AM,,RDS-TMC Feature: RDS21N02289,F,Indonesia - Core Map - Link Attributes - WO065856  Indonesia,NO,W  ,NO,NO,YES,8148372971,6445204069
+Indonesia,Jawa Barat,Depok,Tapos,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/15/21 08:49 AM,,RDS-TMC Feature: RDS21P01795,F,UNKNOWN,NO,W  ,NO,NO,YES,6480135912,1497911833
+Indonesia,Jawa Barat,Depok,Tapos,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/15/21 08:48 AM,,RDS-TMC Feature: RDS21N01795,F,UNKNOWN,NO,W  ,NO,NO,YES,6480116327,1498306836
+Indonesia,DKI Jakarta,Jakarta,Kembangan,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/14/21 16:45 PM,,RDS-TMC Feature: RDS21+01175,F,Indonesia - Core Map - Link Attributes - WO065856  Indonesia,NO,W  ,NO,NO,YES,8156316661,1497708328
+Indonesia,DKI Jakarta,Jakarta,Kembangan,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,R28,04/14/21 16:45 PM,,RDS-TMC Feature: RDS21-01174,F,UNKNOWN,NO,W  ,NO,NO,YES,9360376714,1498029907
+Indonesia,DKI Jakarta,Jakarta,Kembangan,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/14/21 16:45 PM,,RDS-TMC Feature: RDS21-01176,F,Indonesia - Core Map - Link Attributes - WO065856  Indonesia,NO,W  ,NO,NO,YES,8148079274,1498397464
+Indonesia,DKI Jakarta,Jakarta,Kembangan,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,R28,04/14/21 16:45 PM,,RDS-TMC Feature: RDS21+01177,F,UNKNOWN,NO,W  ,NO,NO,YES,9360376710,1498194250
+Indonesia,DKI Jakarta,Jakarta,Jatinegara,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,R28,04/14/21 16:19 PM,,RDS-TMC Feature: RDS21-00812F,F,UNKNOWN,NO,W  ,NO,NO,YES,9503561213,1867021787
+Indonesia,DKI Jakarta,Jakarta,Jatinegara,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,R28,04/14/21 16:19 PM,,RDS-TMC Feature: RDS21P00813T,F,UNKNOWN,NO,W  ,NO,NO,YES,9503011148,1497844205
+Indonesia,DKI Jakarta,Jakarta,Jatinegara,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,R28,04/14/21 16:03 PM,,RDS-TMC Feature: RDS21P00808T,F,UNKNOWN,NO,W  ,NO,NO,YES,9503010952,1498395034
+Indonesia,DKI Jakarta,Jakarta,Tanjung Priok,,RDS046,Non-Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,rlopezpi,Leon,rlopezpi,,,04/14/21 15:18 PM,,RDS-TMC Feature: RDS21N00634,F,Indonesia - Core Map - Link Attributes - WO065856  Indonesia,NO,W  ,NO,NO,YES,8148079723,1498265303
+Indonesia,DKI Jakarta,Jakarta,Makasar,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,j6flores,Leon,j6flores,,,03/10/2021 12:04,,"RDS-TMC Feature: RDS21-01431, RDS23-01344",F,Indonesia - FC12345 - WO095286...Core Team - SE Asia,NO,W  ,NO,NO,YES,2402092212,9243840825
+Indonesia,DKI Jakarta,Jakarta,Makasar,,RDS045,Reference Node Not Connected to RDS-TMC,2,Active,HIGH,-,-,TRAFFIC,YES,j6flores,Leon,j6flores,,,03/10/2021 12:04,,"RDS-TMC Feature: RDS21-01431, RDS23-01344",F,Indonesia - FC12345 - WO095286...Core Team - SE Asia,NO,W  ,NO,NO,YES,2402092209,9243840828
